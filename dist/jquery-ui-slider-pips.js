@@ -1,5 +1,5 @@
-/*! jQuery-ui-Slider-Pips - v1.11.4 - 2016-09-04
-* Copyright (c) 2016 Simon Goellner <simey.me@gmail.com>; Licensed MIT */
+/*! jQuery-ui-Slider-Pips - v1.11.4 - 2021-12-08
+* Copyright (c) 2021 Simon Goellner <simey.me@gmail.com>; Licensed MIT */
 
 (function($) {
 
